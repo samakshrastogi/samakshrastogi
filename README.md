@@ -5,93 +5,137 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 </h3>
 
 <p align="center">
-Building scalable systems, AI-powered products, and enterprise applications.
+Building scalable backend systems, enterprise applications, and AI-powered products.
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:samakshrastogi885@gmail.com">Email</a>
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO">Portfolio</a> •
+  <a href="mailto:samakshrastogi885@gmail.com">Email</a>
 </p>
-
----
-
-### 🚀 About Me
-
-🔭 Building **Backend Systems, AI Applications & Enterprise Platforms**
-
-🌱 Learning **Distributed Systems, Kubernetes & Microservices**
-
-👯 Open to **Open Source, AI Agents & Backend Projects**
-
-💬 Ask me about **Python, Django, Node.js, System Design & AI Automation**
-
-⚡ Built **3 Production-Grade AI Applications** & contributed to **3 Enterprise Nokia Platforms**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-
-**Database & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-
-**AI & Automation**
-
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-6E57FF?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-
----
-
-### 🚀 Featured Projects
-
-| Project           | Description                                          |
-| ----------------- | ---------------------------------------------------- |
-| **SK CrawlPulse** | AI-powered autonomous QA & website analysis platform |
-| **SK MailPilot**  | AI-powered Gmail workspace with workflow automation  |
-| **SK MediaFlow**  | Full-stack media streaming & processing platform     |
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samakshrastogi&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samakshrastogi&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Student+Intern+%40+Nokia;Backend+Engineer;Full+Stack+Developer;AI+Systems+Builder;Distributed+Systems+Enthusiast" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🚀 About Me
 
-🏅 Student Intern @ Nokia
+🔭 Building scalable backend systems, AI-powered applications, and enterprise platforms
 
-🏅 Built & deployed 3 AI-powered SaaS applications
+🌱 Learning Distributed Systems, Kubernetes, Microservices & Advanced AI Workflows
 
-🏅 Experience in Django, Node.js, AWS, AI Agents & Distributed Systems
+👯 Open to collaborating on Backend Engineering, AI Agents, and Open Source Projects
 
-🏅 Passionate about Backend Engineering & System Design
+💬 Ask me about Django, Node.js, Python, System Design, REST APIs, and AI Automation
+
+⚡ Built 3 production-grade AI applications and contributed to 3 enterprise-scale Nokia platforms
+
+---
+
+## 🔥 Currently Building
+
+🚀 **SK CrawlPulse** — AI-powered autonomous QA & website analysis platform
+
+📧 **SK MailPilot** — Intelligent Gmail workspace with AI automation
+
+🎥 **SK MediaFlow** — Media streaming platform with AI-powered processing pipelines
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat-square)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square\&logo=express)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css)
+
+### Database & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square\&logo=redis)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
+
+### AI & Automation
+
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+
+---
+
+## 📈 Impact
+
+🏢 Contributed to **3 enterprise-scale platforms at Nokia**
+
+🤖 Built **3 production-ready AI-powered SaaS applications**
+
+⚙️ Developed **50+ backend routes and APIs**
+
+📊 Built analytics dashboards, workflow automation systems, and media processing pipelines
+
+🔐 Implemented RBAC, Azure AD SSO, and enterprise-grade authentication systems
+
+---
+
+## 🚀 Featured Projects
+
+| Project           | Description                                            |
+| ----------------- | ------------------------------------------------------ |
+| **SK CrawlPulse** | AI-powered autonomous QA and website analysis platform |
+| **SK MailPilot**  | AI-powered Gmail workspace with workflow automation    |
+| **SK MediaFlow**  | Full-stack media streaming and AI processing platform  |
+
+---
+
+## 🏗️ Engineering Interests
+
+Backend Engineering • Distributed Systems • System Design • AI Agents • Cloud Architecture • Workflow Automation • Real-Time Applications
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samakshrastogi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samakshrastogi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samakshrastogi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 **[samakshrastogi885@gmail.com](mailto:samakshrastogi885@gmail.com)**
+
+💼 **LinkedIn:** YOUR_LINKEDIN
+
+🌐 **Portfolio:** YOUR_PORTFOLIO
+
+📍 **Gurugram, India**
+
+---
+
+<p align="center">
+⭐ Passionate about Backend Engineering, AI Systems, and building scalable software that solves real-world problems.
+</p>
