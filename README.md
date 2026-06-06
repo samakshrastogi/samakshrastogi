@@ -1,27 +1,132 @@
-# 💫 About Me:
-🔭 I'm currently working on scalable backend systems, AI-powered applications, and enterprise-grade web platforms.<br><br>👯 I'm looking to collaborate on open-source projects related to Backend Engineering, AI Agents, Developer Tools, and Distributed Systems.<br><br>🤝 I'm looking for help with advanced System Design, Cloud Architecture, and large-scale distributed applications.<br><br>🌱 I'm currently learning Distributed Systems, Kubernetes, Microservices, and Advanced AI Agent Workflows.<br><br>💬 Ask me about Python, Django, Node.js, React, REST APIs, AI Automation, System Design, and Full Stack Development.<br><br>⚡ Fun fact: I enjoy transforming complex business problems into scalable software solutions and automated workflows.
+<h1 align="center">Hi 👋, I'm Samaksh Rastogi</h1>
 
+<h3 align="center">
+Software Engineering Intern @ Nokia | Backend Engineer | Full Stack Developer | AI Systems Builder
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samaksh-rastogi-9638b9254/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samakshrastogi885@gmail.com) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=samakshrastogi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=samakshrastogi&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samakshrastogi&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samakshrastogi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samakshrastogi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Building scalable backend systems, AI-powered products, workflow automation platforms, and enterprise-grade web applications.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=samakshrastogi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🔭 Currently building scalable backend systems, AI-powered applications, and enterprise-grade web platforms
+
+🌱 Learning Distributed Systems, Kubernetes, Microservices, and Advanced AI Agent Workflows
+
+👯 Looking to collaborate on Backend Engineering, AI Agents, Developer Tools, and Open Source Projects
+
+💬 Ask me about Django, Python, Node.js, System Design, Distributed Systems, AI Automation, and Full Stack Development
+
+⚡ Fun Fact: I enjoy transforming complex business problems into scalable software solutions and automated workflows
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineering Intern | Nokia
+
+* Contributed to enterprise-scale platforms involving media processing, workflow automation, analytics, and network operations
+* Built AI-powered media processing pipelines using OpenCV, FFmpeg, Faster-Whisper, and NLP technologies
+* Developed secure enterprise applications with Azure AD SSO, RBAC, and scalable backend architectures
+* Worked on analytics dashboards, workflow automation, and operational support systems
+
+---
+
+## 🚀 Featured Projects
+
+### SK CrawlPulse
+
+AI-powered autonomous QA and website analysis platform
+
+* Automated website crawling and test generation
+* Generated frontend, API, UX, and boundary test scenarios
+* Real-time reporting and analysis pipelines
+
+**Tech:** Playwright, Node.js, MongoDB, SSE, Mermaid
+
+---
+
+### SK MailPilot
+
+AI-powered Gmail Workspace
+
+* Intelligent inbox triage and smart replies
+* AI workflow automation
+* Event-driven architecture for email operations
+
+**Tech:** Node.js, LangChain, LangGraph, Redis, BullMQ
+
+---
+
+### SK MediaFlow
+
+Full-Stack Media Streaming Platform
+
+* Automated media processing
+* AI metadata generation
+* Secure content delivery
+
+**Tech:** AWS S3, CloudFront, Redis, FFmpeg, Ollama
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • JavaScript • TypeScript • SQL
+
+### Backend
+
+Django • Django REST Framework • Node.js • Express.js • REST APIs
+
+### Frontend
+
+React.js • Vite • Tailwind CSS • HTML5 • CSS3
+
+### Databases
+
+PostgreSQL • MongoDB • Redis • SQLite
+
+### Cloud & DevOps
+
+AWS S3 • CloudFront • Azure AD SSO • Linux • CI/CD
+
+### AI & Automation
+
+LangChain • LangGraph • Ollama • AI Agents • RAG • OpenCV • spaCy • Faster-Whisper
+
+### Engineering
+
+System Design • Distributed Systems • Microservices • Event-Driven Architecture • Real-Time Systems
+
+---
+
+## 🏆 Achievements
+
+🏅 Contributed to 3 enterprise-scale Nokia platforms
+
+🏅 Built and deployed 3 production-grade AI-powered SaaS applications
+
+🏅 Experience across Python, Django, React, Node.js, AWS, AI Agents, and Enterprise Systems
+
+🏅 Passionate about scalable software architecture and backend engineering
+
+---
+
+## 📫 Connect With Me
+
+📧 [samakshrastogi885@gmail.com](mailto:samakshrastogi885@gmail.com)
+
+💼 LinkedIn: [Add Your LinkedIn]
+
+🌐 Portfolio: [Add Your Portfolio]
+
+💻 GitHub: https://github.com/samakshrastogi
+
+---
+
+⭐ Always excited to discuss Backend Engineering, System Design, AI Systems, and building impactful software.
