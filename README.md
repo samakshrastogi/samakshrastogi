@@ -39,18 +39,57 @@ Building scalable backend systems, enterprise applications, and AI-powered produ
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,react,typescript,javascript,mongodb,postgres,redis,aws,docker,git,github,linux" />
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java" />
 </p>
 
-<p align="center">
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
+</p>
+
+### 🗄️ Database & Cache
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
 <img src="https://img.shields.io/badge/LangChain-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenCV-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/spaCy-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Celery-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Faster--Whisper-DC2626?style=for-the-badge" />
 </p>
+
+### 🚀 Engineering & Tools
+
+<p>
+<img src="https://img.shields.io/badge/DRF-Django_REST_Framework-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Celery-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BullMQ-EAB308?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge" />
+</p>
+
 
 ---
 
