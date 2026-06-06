@@ -5,6 +5,10 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 </h3>
 
 <p align="center">
+Building scalable backend systems, enterprise applications, and AI-powered products.
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/samaksh-rastogi-9638b9254/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -14,7 +18,7 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 </a>
 
 <a href="mailto:samakshrastogi885@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -26,17 +30,17 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 
 ## 🚀 About Me
 
-* 🔭 Building scalable backend systems, AI-powered applications & enterprise platforms
-* 🌱 Learning Distributed Systems, Kubernetes & Microservices
-* 💬 Ask me about Django, Python, Node.js, System Design & AI Automation
-* ⚡ Built 3 AI-powered SaaS applications & contributed to 3 Nokia enterprise platforms
+* 🔭 Building scalable backend systems, AI-powered applications, and enterprise-grade platforms
+* 🌱 Exploring Distributed Systems, Kubernetes, Microservices, and Cloud Architecture
+* 💬 Ask me about Python, Django, Node.js, System Design, REST APIs, and AI Automation
+* ⚡ Built 3 AI-powered SaaS applications and contributed to 3 enterprise-scale Nokia platforms
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,react,typescript,javascript,mongodb,postgres,redis,aws,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,react,typescript,javascript,mongodb,postgres,redis,aws,docker,git,github,linux" />
 </p>
 
 <p align="center">
@@ -45,6 +49,7 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenCV-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/spaCy-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Celery-16A34A?style=for-the-badge" />
 </p>
 
 ---
@@ -55,24 +60,29 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 | -------------------- | ---------------------------------------------------- |
 | 🚀 **SK CrawlPulse** | AI-powered autonomous QA & website analysis platform |
 | 📧 **SK MailPilot**  | AI-powered Gmail workspace with workflow automation  |
-| 🎥 **SK MediaFlow**  | Media streaming platform with AI-powered processing  |
+| 🎥 **SK MediaFlow**  | Full-stack media streaming & AI processing platform  |
 
 ---
 
-## 📈 Impact
+## 📈 Highlights
 
-🏢 **3 Enterprise Platforms @ Nokia**
-🤖 **3 Production-Grade AI Applications**
-⚙️ **50+ Backend APIs & Routes Developed**
-🔐 **RBAC, Azure AD SSO & Enterprise Authentication**
+🏢 Contributed to **3 Enterprise Nokia Platforms**
+
+🤖 Built **3 Production-Grade AI Applications**
+
+⚙️ Developed **50+ Backend APIs & Routes**
+
+🔐 Implemented **RBAC, Azure AD SSO & Enterprise Authentication**
+
+☁️ Experienced with **AWS, Distributed Systems & Automation Workflows**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samakshrastogi&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samakshrastogi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samakshrastogi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samakshrastogi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -81,11 +91,15 @@ Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Syst
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samakshrastogi&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+📍 Gurugram, India
+
+📧 **[samakshrastogi885@gmail.com](mailto:samakshrastogi885@gmail.com)**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/samaksh-rastogi-9638b9254/
+
+🌐 **Portfolio:** https://sk-hub.in
 
 ---
 
