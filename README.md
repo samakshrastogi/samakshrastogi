@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samaksh Rastogi</h1>
 
 <h3 align="center">
-Software Engineering Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Systems Builder
+Student Intern @ Nokia • Backend Engineer • Full Stack Developer • AI Systems Builder
 </h3>
 
 <p align="center">
