@@ -88,7 +88,7 @@ Building scalable systems, AI-powered products, and enterprise applications.
 
 ### 🏆 Achievements
 
-🏅 Software Engineering Intern @ Nokia
+🏅 Student Intern @ Nokia
 
 🏅 Built & deployed 3 AI-powered SaaS applications
 
