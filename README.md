@@ -14,7 +14,7 @@ Building scalable backend systems, distributed architectures, cloud-native appli
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://sk-hub.in">
+<a href="https://portfolio.sk-hub.in">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -236,7 +236,7 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 
 📧 **Email:** samakshrastogi885@gmail.com
 
-🌐 **Portfolio:** https://sk-hub.in
+🌐 **Portfolio:** https://portfolio.sk-hub.in
 
 💼 **LinkedIn:** https://www.linkedin.com/in/samaksh-rastogi-9638b9254/
 
