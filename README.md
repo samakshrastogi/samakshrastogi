@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Samaksh Rastogi</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • Backend Engineer • AI Systems Builder
+Software Engineer | Backend & Full-Stack | AI-Powered Systems
 </h3>
 
 <p align="center">
-Building scalable backend systems, distributed architectures, cloud-native applications, and AI-powered products.
+I build real-world software with Python, Django, React, PostgreSQL, Redis, Docker, cloud infrastructure, real-time technologies, and modern AI tooling.
+</p>
+
+<p align="center">
+🚀 1K+ GitHub Contributions • 💼 Nokia SWE Intern • ⚙️ 70+ API Endpoints • 🤖 AI & SaaS Projects
 </p>
 
 <p align="center">
@@ -29,37 +33,192 @@ Building scalable backend systems, distributed architectures, cloud-native appli
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Backend+Engineer;Full+Stack+Developer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Building+Production-Ready+SaaS+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Backend+%26+Full-Stack+Engineer;Building+AI-Powered+Applications;Turning+Ideas+Into+Production+Software" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Software Engineer** passionate about designing scalable backend systems, distributed architectures, cloud-native applications, and AI-powered software.
+I'm a Software Engineer focused on backend engineering, full-stack development, and AI-powered product development.
 
-I enjoy solving complex engineering problems by building production-ready platforms with clean architecture, secure APIs, asynchronous processing, and modern cloud technologies.
+I enjoy building complete applications — from authentication, APIs, databases, and real-time communication to background processing, AI workflows, analytics, cloud storage, and deployment.
 
-My work spans **enterprise software, real-time communication, AI automation, workflow orchestration, cloud infrastructure, media processing, and intelligent SaaS applications.**
+My recent work includes centralized authentication platforms, real-time collaboration tools, AI-powered email systems, media-processing pipelines, adaptive learning platforms, and workflow automation systems.
 
-### 🔥 Current Focus
+### 🔭 Currently Exploring
 
-- Backend Engineering
+- Agentic AI Systems
+- Backend Architecture
 - Distributed Systems
-- Cloud Architecture
-- AI Engineering
 - System Design
+- Event-Driven Applications
+- AI Workflow Automation
 - Production SaaS Development
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Experience
+
+## Nokia — Software Engineering Intern
+
+- Worked in a professional engineering environment on software and technology-focused initiatives.
+- Strengthened understanding of software engineering practices, cloud computing, AI concepts, virtualization, and telecom technologies.
+- Gained experience working with structured development workflows and enterprise engineering environments.
+
+---
+
+# 🚀 Featured Projects
+
+## 🚀 SK Central
+
+Enterprise-style centralized platform for authentication, analytics, documentation management, access control, and AI-powered search across multiple applications.
+
+**Key Features**
+
+- Centralized authentication
+- Role-Based Access Control
+- User profile synchronization
+- Analytics dashboard
+- Application access management
+- AI-powered search
+- Admin controls
+- Multi-application integration
+
+**Tech Stack**
+
+`Django` `React` `PostgreSQL` `Redis` `REST APIs` `JWT` `RBAC`
+
+---
+
+## 💬 SK Connect
+
+Real-time communication and collaboration platform designed for messaging, communities, calling, and AI-assisted conversations.
+
+**Key Features**
+
+- Real-time messaging
+- Community servers
+- Private conversations
+- WebRTC audio/video calling
+- Socket.IO communication
+- AI conversation assistance
+- Authentication and authorization
+- Secure collaboration
+
+**Tech Stack**
+
+`React` `Node.js` `Socket.IO` `WebRTC` `MongoDB` `JWT`
+
+---
+
+## 📧 SK MailPilot
+
+AI-powered email management platform designed to help users organize, search, understand, and automate email workflows.
+
+**Key Features**
+
+- Gmail integration
+- AI-powered email assistance
+- Semantic search
+- Smart inbox organization
+- Workflow automation
+- Email summarization
+- Context-aware assistance
+- Intelligent email search
+
+**Tech Stack**
+
+`Python` `Django` `Gmail API` `LangGraph` `LLMs` `PostgreSQL`
+
+---
+
+## 🎥 SK MediaFlow
+
+Cloud-oriented media processing and streaming platform with automated media transformation and AI-assisted content extraction.
+
+**Key Features**
+
+- Media upload pipeline
+- FFmpeg processing
+- Video transformation
+- AI content extraction
+- AWS S3 storage
+- CloudFront delivery
+- Background processing
+- Media metadata extraction
+
+**Tech Stack**
+
+`Python` `FFmpeg` `OpenCV` `AWS S3` `CloudFront` `Redis`
+
+---
+
+## 🎓 SK Quiz Coach
+
+AI-powered adaptive learning platform designed to personalize learning, quizzes, revision, and performance tracking.
+
+**Key Features**
+
+- AI-generated quizzes
+- Adaptive learning
+- Personalized study plans
+- Performance analytics
+- Topic-based learning
+- Intelligent question generation
+- Progress tracking
+
+**Tech Stack**
+
+`React` `Django` `PostgreSQL` `LLMs` `RAG`
+
+---
+
+# ⚡ Engineering Highlights
+
+- 🚀 1K+ GitHub contributions in the last year
+- ⚙️ Designed and implemented 70+ API endpoints across multiple applications
+- 🧩 Built multiple end-to-end SaaS-style applications
+- 📡 Implemented real-time communication using Socket.IO and WebRTC
+- 🤖 Built AI workflows using LangChain, LangGraph, RAG, Gemini and OpenAI
+- 🔐 Implemented authentication systems using JWT, OAuth 2.0 and RBAC
+- ⚡ Worked with Redis-based caching and background processing
+- 🎥 Built media-processing workflows using FFmpeg and OpenCV
+- ☁️ Worked with AWS S3, CloudFront, Docker and cloud deployment platforms
+- 🏢 Completed Software Engineering Internship at Nokia
+
+---
+
+# 🛠 Core Tech Stack
 
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript" />
 </p>
+
+**Also Familiar With**
+
+`Java` `C++`
+
+---
+
+## ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+- Django REST Framework
+- RESTful API Design
+- JWT Authentication
+- OAuth 2.0
+- Role-Based Access Control
+- Server-Sent Events
+- Background Processing
+- API Integration
+- WebSockets
+- Socket.IO
 
 ---
 
@@ -69,66 +228,54 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
 </p>
 
-**Also Experienced With**
+**Also Worked With**
 
 - React Router
 - TanStack Query
 - Zustand
 - Framer Motion
 - GSAP
+- Bootstrap
 
 ---
 
-## ⚙ Backend
+## 🗄 Databases & Data Layer
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
-**Backend Technologies**
-
-- Django REST Framework
-- REST APIs
-- JWT Authentication
-- OAuth 2.0
-- Socket.IO
-- WebRTC
-- Server Sent Events
-
----
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
-
-**Also**
-
+- PostgreSQL
+- MongoDB
+- Redis
+- SQLite
 - Prisma ORM
 - Mongoose
-- SQLite
+- Database Modeling
+- Caching
 
 ---
 
-## ☁ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel" />
 </p>
-
-**Cloud Technologies**
 
 - AWS S3
 - AWS CloudFront
+- Docker
 - Docker Compose
+- Linux
+- Git
+- GitHub
 - Render
 - Railway
 - Vercel
 
 ---
 
-## 🤖 AI Engineering
+## 🤖 AI & LLM Engineering
 
 <p>
 
@@ -136,7 +283,7 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 
 <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 
@@ -146,13 +293,26 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 
 </p>
 
+### AI Capabilities
+
+- LLM Integration
+- Retrieval-Augmented Generation
+- Agentic Workflows
+- Tool Calling
+- Structured Outputs
+- Prompt Engineering
+- Semantic Search
+- AI Automation
+- Local Models with Ollama
+- Context-Aware Applications
+
 ---
 
 ## ⚡ Engineering Tools
 
 <p>
 
-<img src="https://img.shields.io/badge/Redis-BullMQ-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BullMQ-Redis-red?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Celery-16A34A?style=for-the-badge"/>
 
@@ -168,35 +328,65 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Engineering Areas
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **SK Central** | Enterprise workspace unifying authentication, analytics, documentation management, and AI-powered search across distributed applications. |
-| 💬 **SK Connect** | Real-time messaging platform featuring WebRTC calling, community servers, AI conversation assistant, and secure collaboration. |
-| 📧 **SK MailPilot** | AI-powered inbox management platform with Gmail integration, semantic search, workflow automation, and intelligent email assistance. |
-| 🎥 **SK MediaFlow** | Cloud-native media streaming platform with FFmpeg processing pipelines, AI content extraction, AWS S3, and CloudFront delivery. |
-| 🎓 **SK Quiz Coach** | AI-driven adaptive learning platform providing personalized study plans, intelligent quizzes, and performance analytics. |
+### Backend Engineering
+
+- API Design
+- Authentication & Authorization
+- Caching
+- Background Jobs
+- Database Design
+- Error Handling
+- Logging
+- Secure API Development
+
+### Real-Time Systems
+
+- WebSockets
+- Socket.IO
+- WebRTC
+- Server-Sent Events
+- Real-Time Messaging
+- Peer-to-Peer Communication
+
+### AI Systems
+
+- RAG
+- Agentic Workflows
+- LLM Integration
+- AI Automation
+- Semantic Search
+- Structured AI Outputs
+- Tool-Based Agents
+
+### Cloud & Infrastructure
+
+- Docker
+- AWS S3
+- CloudFront
+- Linux
+- Cloud Deployment
+- Redis
+- Background Workers
 
 ---
 
-# 📈 Engineering Highlights
+# 🏗 System Design Interests
 
-🏢 Completed Software Engineering Internship at **Nokia**
+I'm actively improving my understanding of designing reliable and scalable systems, including:
 
-🚀 Built **5 Production-Ready SaaS Platforms**
-
-🤖 Developed AI-powered applications using **Gemini, LangChain, LangGraph & OpenAI**
-
-⚙ Designed **70+ REST APIs**
-
-📡 Built Real-Time Systems using **Socket.IO & WebRTC**
-
-☁ Experienced with **AWS, Docker, Redis, Cloud Computing & Distributed Systems**
-
-🔐 Implemented Enterprise Authentication using **JWT, OAuth 2.0 & RBAC**
-
-🎥 Built Media Processing Pipelines using **FFmpeg & OpenCV**
+- Authentication architecture
+- API scalability
+- Caching strategies
+- Background workers
+- Event-driven systems
+- Queue-based processing
+- Database optimization
+- Distributed application architecture
+- Cloud storage architecture
+- Real-time communication systems
+- AI workflow orchestration
 
 ---
 
@@ -206,13 +396,11 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 - NPTEL — Machine Learning
 - Nokia — Introduction to Artificial Intelligence
 - Nokia — Cloud Computing
-- Nokia — Virtualization
-- Nokia — NFV and Telco Cloud
 - Cisco — Cybersecurity Essentials
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
 
@@ -223,24 +411,47 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=samakshrastogi&theme=tokyonight&hide_border=true"/>
-
+<b>🚀 1K+ contributions in the last year</b>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 What I'm Focused On
 
-📍 **Gurugram, Haryana, India**
+I'm currently strengthening my skills in:
 
-📧 **Email:** samakshrastogi885@gmail.com
+- Advanced Backend Engineering
+- Agentic AI Development
+- Distributed Systems
+- System Design
+- Production Architecture
+- AI-Powered SaaS Development
+- Cloud-Native Applications
+- Scalable API Design
 
-🌐 **Portfolio:** https://portfolio.sk-hub.in
+---
 
-💼 **LinkedIn:** https://www.linkedin.com/in/samaksh-rastogi-9638b9254/
+# 🤝 Let's Connect
 
-🐙 **GitHub:** https://github.com/samakshrastogi
+I'm interested in opportunities involving:
+
+`Software Engineering` • `Backend Engineering` • `Full-Stack Development` • `AI Engineering`
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/samaksh-rastogi-9638b9254/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:samakshrastogi885@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio.sk-hub.in">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
 
 ---
 
@@ -251,5 +462,5 @@ My work spans **enterprise software, real-time communication, AI automation, wor
 </p>
 
 <h3 align="center">
-Building scalable software that solves real-world problems.
+Building software that solves real-world problems.
 </h3>
